@@ -1,6 +1,6 @@
 # Fdb version 3
-["pdflatex"] 1505060011 "/Users/jcf/Documents/resume/resume_cv.tex" "resume_cv.pdf" "resume_cv" 1505060011
-  "/Users/jcf/Documents/resume/resume_cv.tex" 1505060011 3508 a24b48b1e2d70b1c7fff6bc48942a111 ""
+["pdflatex"] 1505061499 "/Users/jcf/Documents/resume/resume_cv.tex" "resume_cv.pdf" "resume_cv" 1505071093
+  "/Users/jcf/Documents/resume/resume_cv.tex" 1505060382 3508 d44c756ffedb2493b35bead0a3cf5cfc ""
   "/usr/local/texlive/2017/texmf-dist/fonts/map/fontname/texfonts.map" 1480098670 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmr10.tfm" 1480098701 1296 45809c5a464d5f32c8f98ba97c1bb47f ""
   "/usr/local/texlive/2017/texmf-dist/tex/generic/ifxetex/ifxetex.sty" 1480098815 1458 43ab4710dc82f3edeabecd0d099626b2 ""
@@ -38,9 +38,9 @@
   "/usr/local/texlive/2017/texmf-var/web2c/pdftex/pdflatex.fmt" 1495593487 4129592 0e6cfee100d68e6d96b92c0258f2ff73 ""
   "/usr/local/texlive/2017/texmf.cnf" 1495593465 577 2b71d4d888f9e5560b2e99985915a9fa ""
   "awesome-cv.cls" 1490666332 25526 469cab008fe7eab233ab45be71af56d6 ""
-  "resume_cv.aux" 1505059978 665 82c456479ed516bc5a94b04c48282691 ""
-  "resume_cv.tex" 1505060011 3508 a24b48b1e2d70b1c7fff6bc48942a111 ""
+  "resume_cv.aux" 1505061429 665 82c456479ed516bc5a94b04c48282691 ""
+  "resume_cv.tex" 1505060382 3508 d44c756ffedb2493b35bead0a3cf5cfc ""
   (generated)
-  "resume_cv.log"
-  "resume_cv.pdf"
   "resume_cv.aux"
+  "resume_cv.pdf"
+  "resume_cv.log"
